@@ -41,5 +41,5 @@
 ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/2vVrogavQY3sckl3WauCkQ?si=u1qpmk_VSZqubWR4r-rRew)
 
-
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="29248e42-9c79-4ffb-9ad2-471ad1f94e7b" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
