@@ -40,5 +40,5 @@
 [![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white)](https://music.apple.com/us/artist/ozyman-king-of-thieves/1591468064)
 [![Sound Cloud](https://img.shields.io/badge/sound%20cloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/user-668654002)
 ![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/2vVrogavQY3sckl3WauCkQ?si=u1qpmk_VSZqubWR4r-rRew)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/1iEtB8Yr84vTY2vVojrLNr?si=eCt34SmPSuaIpeWBfhR4Kg)
 
