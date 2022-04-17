@@ -35,10 +35,3 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black)
 ![Windows](https://img.shields.io/badge/-Windows-black?logo=Windows&style=for-the-badge&logoColor=white)
 
-
-## King of Thieves
-[![Apple Music](https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white)](https://music.apple.com/us/artist/ozyman-king-of-thieves/1591468064)
-[![Sound Cloud](https://img.shields.io/badge/sound%20cloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/user-668654002)
-![YouTube Music](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/artist/1iEtB8Yr84vTY2vVojrLNr?si=eCt34SmPSuaIpeWBfhR4Kg)
-
